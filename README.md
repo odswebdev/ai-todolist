@@ -2,6 +2,11 @@
 
 Небольшое адаптивное приложение для управления задачами. Проект работает без сервера и сохраняет список в `localStorage`, поэтому задачи не исчезают после обновления страницы.
 
+## Ссылки
+
+- **Демо-сайт:** [odswebdev.github.io/ai-todolist](https://odswebdev.github.io/ai-todolist/)
+- **Исходный код:** [github.com/odswebdev/ai-todolist](https://github.com/odswebdev/ai-todolist)
+
 ## Возможности
 
 - добавление задач через форму или клавишу Enter;
